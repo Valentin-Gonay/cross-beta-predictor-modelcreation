@@ -159,7 +159,7 @@ The Hyperparameter grid is the one you will have to change depending on your opt
 
 Once your parameters are updated, you can run the script. For this, in a terminal, set your location to the `Cross-Beta_predictor_modelCreation` folder
 
-```$cd PATH/TO/YOUR/INSTALL/OF/Cross-Beta_predictor_modelCreation```
+```$cd PATH/TO/YOUR/INSTALL/OF/cross-beta-predictor-modelcreation```
 
 And then execute the script
 
