@@ -179,7 +179,7 @@ Valentin Gonay
 
 ### Citing Cross-Beta predictor
 
-Valentin Gonay, Michael P. Dunne, Javier Caceres-Delpiano, & Andrey V. Kajava. (2024). Developing machine-learning-based amyloid predictors with Cross-Beta DB. bioRxiv, 2024.02.12.579644. https://doi.org/10.1101/2024.02.12.579644
+Gonay V, Dunne MP, Caceres-Delpiano J, Kajava AV. Developing machine-learning-based amyloidogenicity predictors with Cross-Beta DB. Alzheimer's Dement. 2024; 1-7. https://doi.org/10.1002/alz.14510
 
 ### Citing IUPred3
 
